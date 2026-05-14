@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.2.36",
-  "releasedAt": "2026-05-13",
+  "latestVersion": "0.2.37",
+  "releasedAt": "2026-05-14",
   "vscode": {
-    "vsixUrl": "https://api.github.com/repos/jrowlingson/field-apps-tools/contents/releases/arcgis-blueprint/0.2.36/arcgis-blueprint-vscode-0.2.36.vsix?ref=master",
-    "sha256": "54a5370e8e54e506f96054ea8d31635502980057d3f7706b91d0cdabd536a489"
+    "vsixUrl": "https://api.github.com/repos/jrowlingson/field-apps-tools/contents/releases/arcgis-blueprint/0.2.37/arcgis-blueprint-vscode-0.2.37.vsix?ref=master",
+    "sha256": "10c03fd58ebe1eb8ad542c990884f529af1e8e7df43564b8a48e14f6f70c1558"
   }
 }
