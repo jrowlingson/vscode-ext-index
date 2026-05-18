@@ -1,13 +1,13 @@
 {
-  "latestVersion": "0.2.41",
-  "releasedAt": "2026-05-15",
+  "latestVersion": "0.2.42",
+  "releasedAt": "2026-05-18",
   "vscode": {
-    "vsixUrl": "https://api.github.com/repos/jrowlingson/field-apps-tools/contents/releases/arcgis-blueprint/0.2.41/arcgis-blueprint-vscode-0.2.41.vsix?ref=master",
-    "sha256": "c84247cfde3ea88cee115d42a7816ba94e2f407e3a34b1e240d71f9a3f48e653"
+    "vsixUrl": "https://api.github.com/repos/jrowlingson/field-apps-tools/contents/releases/arcgis-blueprint/0.2.42/arcgis-blueprint-vscode-0.2.42.vsix?ref=master",
+    "sha256": "722da23c5eee1d12fa0ad4e16a3854293db3c002d33adb7e7eb9173cf2b8db89"
   },
   "chrome": {
-    "zipUrl": "https://api.github.com/repos/jrowlingson/field-apps-tools/contents/releases/arcgis-blueprint/0.2.41/arcgis-blueprint-chrome-0.2.41.zip?ref=master",
-    "sha256": "bd54fca84aa2b625f14fd998eacd817ba7f0ef88e798917a0fd5d6fb43056666",
-    "version": "0.2.41"
+    "zipUrl": "https://api.github.com/repos/jrowlingson/field-apps-tools/contents/releases/arcgis-blueprint/0.2.42/arcgis-blueprint-chrome-0.2.42.zip?ref=master",
+    "sha256": "c89a58f37c9f865cc61f9fff648d9e420f047c19d280cd17e3bfcfc387d47312",
+    "version": "0.2.42"
   }
 }
